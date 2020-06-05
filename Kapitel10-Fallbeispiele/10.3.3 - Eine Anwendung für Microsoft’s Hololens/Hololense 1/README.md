@@ -2,7 +2,7 @@
 
 ## Fallbeispiel 10.3.3 - Eine Anwendung für Microsoft’s Hololens
 
-### Diese Anwendung für die Microsoft HoloLens (1st gen) ist Kompatible mit der Unity Version 2017.4.40f1 (LTS)
+###### Diese Anwendung für die Microsoft HoloLens (1st gen) ist Kompatible mit der Unity Version 2017.4.40f1 (LTS)
 
 Das hier vorliegende Beispielprojekt ist als Begleitmaterial, des Buches Virtual und Augmented Reality (VR / AR) 2019: Grundlagen und Methoden der Virtuellen und Augmentierten Realität entstanden. Es beinhaltet das in Kapitel 10.3.3 Making Of: Eine Anwendung für Microsoft’s Hololens beschriebene Unityprojekt mit allen erwähnten Komponenten.
 
