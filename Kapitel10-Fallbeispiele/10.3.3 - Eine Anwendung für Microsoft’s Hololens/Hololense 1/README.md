@@ -1,4 +1,4 @@
-![Microsoft HoloLens (1st gen)] https://docs.microsoft.com/de-de/hololens/images/see-through-400px.jpg)
+![Microsoft HoloLens (1st gen)](https://docs.microsoft.com/de-de/hololens/images/see-through-400px.jpg)
 
 ## Fallbeispiel 10.3.3 - Eine Anwendung für Microsoft’s Hololens
 
